@@ -1,5 +1,7 @@
 # 🎯 START HERE - Going Live Checklist
 
+**⚠️ UPDATE: This guide uses Railway (which may charge). For 100% FREE deployment, use `START_HERE_FREE.md` instead!**
+
 **Follow this checklist step by step. Check each box as you complete it!**
 
 ---
